@@ -1,6 +1,8 @@
 # GitHub Finder
 
-**GitHub Finder** is a dynamic and user-friendly React application designed to search GitHub users and display their repositories along with detailed statistics such as stars, forks, and issues. This project highlights proficiency in React, API integration, and front-end development. 
+**GitHub Finder** is a dynamic and user-friendly React application designed to search GitHub users and display their repositories along with detailed statistics such as stars, forks, and issues. This project highlights proficiency in React, API integration, and front-end development.
+
+Available at **https://github-finder-tomg.vercel.app/**
 
 ## Features
 - **Search GitHub users** by username.
